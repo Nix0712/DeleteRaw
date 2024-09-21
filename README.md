@@ -1,14 +1,13 @@
 ## DeleteRaw
 
 **Purpose:**  
-This mini app helps you delete raw photos that you don't want to edit. (files has to start with 4 characters for now)
+This mini app helps you delete photos that you don't want to edit. (files has to start with 4 characters for now)
 
 ### How to Use
 
 #### Option 1: Using the Executable (Windows)
 
-1. Navigate to the `./dist/main/` folder.
-2. Run the application by double-clicking `main.exe`. 
+1. Run the application by double-clicking `main.exe`. 
 
 #### Option 2: Running via Console
 
